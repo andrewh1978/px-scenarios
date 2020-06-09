@@ -1,6 +1,6 @@
 # Prerequisites
-Running Kubernetes cluster with at least 3 worker nodes
-Storage attached to each worker node
+* Running Kubernetes cluster with at least 3 worker nodes
+* Storage attached to each worker node
 
 # Usage
 Source the file:
