@@ -15,5 +15,5 @@ pxd_fill_one_node
 
 Or, do the same but with a particular Portworx version:
 ```
-px_version=2.3.5 px_fill_one_node
+px_version=2.3.5 pxd_fill_one_node
 ```
